@@ -44,9 +44,9 @@ console.log (map);
 // Array can contain numbers or strings. X can be either. Return true if the array contains the value, false if not.
 
 // write your function here
-
+var array = [1, 3, 5, 7, 9];
 // call your function here
-
+console.log(array.includes(2));
 // 4. Bonus Exercise 
 // Life isn't always easy as a small word amongst big words. If only they had a code warrior to help them out...
 
